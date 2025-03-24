@@ -56,15 +56,17 @@ A dynamic dashboard to visualize and track financial data in real-time. Built wi
 A LinkedIn-inspired networking platform that supports user profiles, connections, and real-time notifications.  
 **Key Features:** User authentication, feed system, notification alerts, responsive and mobile-friendly design.
 
-### 🔹 **Student Result Management System** *(PHP, MySQL)*  
+### 🔹 **Student Result Management System** *(HTML , CSS ,JS PHP, MySQL)*  
 A web-based platform for managing student results with automated grading and secure data handling.  
 **Key Features:** Admin and student login, data validation, downloadable results, comprehensive result analysis.
 
 ---
 
 ## 📜 Papers & Publications  
-- **"Enhancing Web Application Security Using JWT Authentication"** — Presented at BIT Tech Symposium 2024.  
-- **"Optimizing Data Visualization for Financial Dashboards"** — Published in the International Journal of Computer Science, 2023.
+- **" Exam Result Management System
+ Presented a paper on an automated exam result management
+ system with role-based access and centralized data analysis
+ to improve efficiency"** 
 
 ---
 
