@@ -35,7 +35,6 @@ I'm an **IT student** specializing in **Full Stack Development**, with strong sk
 ### **Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![React](https://img.shields.io/badge/-React.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
@@ -46,6 +45,10 @@ I'm an **IT student** specializing in **Full Stack Development**, with strong sk
 ![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
+### 📊 LeetCode Stats  
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/IRFAN_AHAMED_N?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
 
 ## 📁 Projects  
 ### 🔹 **Finance Dashboard** *(MERN Stack)*  
